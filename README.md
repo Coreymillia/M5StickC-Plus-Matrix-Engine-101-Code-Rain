@@ -55,6 +55,6 @@ The pinnacle Matrix experience
 - **Power**: Battery optimized
 
 ## About
-Created by CheapYellowProjects as part of the Matrix Effects 101 project. Each effect uses the same efficient framework while providing unique visual experiences.
+Created by Coreymillia on the Cheap Yellow Display as part of the Matrix Effects 101 project. Each effect uses the same efficient framework while providing unique visual experiences. It was not an exact conversion but as close as I could get it. 
 
 **"There is no spoon... but there are 101 ways to see the Matrix!"**
