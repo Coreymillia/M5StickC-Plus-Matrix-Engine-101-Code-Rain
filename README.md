@@ -12,10 +12,12 @@
 ## Controls
 - **Power Button**: Previous effect
 - **Button B**: Next effect  
-- **Button A**: Toggle auto-advance timing (30s → 1m → 10m → 1h → off)
+- **Button A**: Toggle auto-advance timing (30s → off)
 
 ## Effect Categories
-
+### NOTE: This is what the original effects did on the CYD. 
+Not all of them converted so great. But this is the concepts they were converted from. 
+Many would not fix. But in the end. They all do something
 ### Classic Matrix (1-30)
 Traditional matrix rain in various colors and styles
 
